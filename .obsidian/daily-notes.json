@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD-dddd",
+  "autorun": true,
+  "template": "settings-templates/Daily note template.md",
+  "folder": "calendar/"
+}

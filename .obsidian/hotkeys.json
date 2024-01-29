@@ -1,0 +1,11 @@
+{
+  "file-explorer:new-file": [],
+  "file-tree-alternative: create-new-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}

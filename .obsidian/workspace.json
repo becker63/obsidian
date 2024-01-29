@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "6cc58e86a54430b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d89e4fca8ce3bc76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5da3fb2672fddf25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calendar/2024-01-29-Monday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "945c6fb329f0ab08",
+    "type": "split",
+    "children": [
+      {
+        "id": "82bc640408f8ad52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d52a7456e7530fd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "433149b08d1f557a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MOCs  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31b482c762eedd6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e59c4e076cd1f8dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54ac2ba0cfa93158",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2bd1af930db9af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f07f2e419d36b531",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "calendar/2024-01-29-Monday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4d46980f42fa88b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "calendar/2024-01-29-Monday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dee6a21959a94e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56e4de6b1158279d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "calendar/2024-01-29-Monday.md"
+              }
+            }
+          },
+          {
+            "id": "da8732217b33f986",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "da8732217b33f986",
+  "lastOpenFiles": [
+    "calendar/2024-01-29-Monday.md",
+    "school/school.md",
+    "personal/research/research.md",
+    "calendar/daily notes/2024-01-30-Tuesday.md",
+    "calendar/_Index_of_calendar.md",
+    "calendar/daily notes/daily notes.md",
+    "calendar/2024-01-29 todo.md",
+    "work/work.md",
+    "personal/personal.md",
+    "calendar/daily notes/_Index_of_daily notes.md",
+    "personal/research/orgdesign/_Index_of_orgdesign.md",
+    "personal/_Index_of_personal.md",
+    "personal/research/_Index_of_research.md",
+    "school/New Albany 2023-2024/comp/Project 1/_Index_of_Project 1.md",
+    "school/New Albany 2023-2024/comp/_Index_of_comp.md",
+    "school/New Albany 2023-2024/psych/_Index_of_psych.md",
+    "school/New Albany 2023-2024/_Index_of_New Albany 2023-2024.md",
+    "school/New Albany 2023-2024/world history/_Index_of_world history.md",
+    "school/_Index_of_school.md",
+    "settings-templates/_Index_of_settings-templates.md",
+    "_Index_of_obsidian.md",
+    "work/_Index_of_work.md",
+    "school/New Albany 2023-2024/New Albany 2023-2024.md",
+    "school/New Albany 2023-2024/psych/Punishment.md",
+    "school/New Albany 2023-2024/psych/psych.md",
+    "school/New Albany 2023-2024/comp/comp.md",
+    "calendar",
+    "calendar/daily notes",
+    "calendar",
+    "personal/research/test",
+    "settings-templates",
+    "school/New Albany 2023-2024",
+    "school/New Albany 2023-2024/psych",
+    "work",
+    "personal/research",
+    "personal/projects",
+    "Untitled.canvas"
+  ]
+}
