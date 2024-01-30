@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d89e4fca8ce3bc76",
+        "id": "adc13d32f1f918e0",
         "type": "tabs",
         "children": [
           {
-            "id": "5da3fb2672fddf25",
+            "id": "52dd3f3e27d2cde2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "calendar/2024-01-30-Tuesday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "calendar/2024-01-30-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "calendar/2024-01-30-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "calendar/2024-01-30-Tuesday.md"
+              }
             }
           },
           {
@@ -155,8 +164,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5da3fb2672fddf25",
+  "active": "52dd3f3e27d2cde2",
   "lastOpenFiles": [
+    "Application security.md",
+    "calendar/2024-01-30-Tuesday.md",
     "Holocaust-timeline.md",
     "Daily note template.md",
     "2024-01-29-Monday.md",
@@ -191,8 +202,6 @@
     "mirroring-hypothesis.md",
     "epistemic-interdependence.md",
     "core-periphery.md",
-    "orgdesign/stigmergy.md",
-    "orgdesign/mirroring-hypothesis.md",
     "Untitled.canvas"
   ]
 }
