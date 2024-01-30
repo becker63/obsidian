@@ -11,12 +11,8 @@
             "id": "5da3fb2672fddf25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "calendar/2024-01-29-Monday.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendar/2024-01-29-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calendar/2024-01-29-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "calendar/2024-01-29-Monday.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,42 +157,42 @@
   },
   "active": "5da3fb2672fddf25",
   "lastOpenFiles": [
+    "Holocaust-timeline.md",
+    "Daily note template.md",
+    "2024-01-29-Monday.md",
     "calendar/2024-01-29-Monday.md",
-    "CyberSecurity/Extras/_Index_of_Extras.md",
-    "CyberSecurity/_Index_of_CyberSecurity.md",
-    "CyberSecurity/Layers of Security/_Index_of_Layers of Security.md",
-    "CyberSecurity/SkillsUSA cyber notes/_Index_of_SkillsUSA cyber notes.md",
-    "CyberSecurity/SkillsUSA cyber notes/Testout Ethical Hacker/_Index_of_Testout Ethical Hacker.md",
-    "CyberSecurity/SkillsUSA cyber notes/Testout Ethical Hacker/4.1.2 Reconnaissance Process Facts.md",
-    "CyberSecurity/SkillsUSA cyber notes/Testout Ethical Hacker",
-    "CyberSecurity/Layers of Security/Policy's and awareness.md",
-    "CyberSecurity/Layers of Security/Physical security.md",
-    "CyberSecurity/Layers of Security/Perimeter security.md",
-    "CyberSecurity/Layers of Security/Network security.md",
-    "CyberSecurity/Layers of Security/Layers of Security.md",
-    "CyberSecurity/Layers of Security/Host security.md",
-    "CyberSecurity/Layers of Security/Data security.md",
-    "CyberSecurity/Extras/gimme your email if you want study group notifications (todoist).md",
-    "CyberSecurity/Layers of Security/Application security.md",
-    "CyberSecurity/SkillsUSA cyber notes",
-    "CyberSecurity/Layers of Security",
-    "CyberSecurity/Extras",
-    "CyberSecurity/Common Threats.md",
-    "CyberSecurity",
-    "school/school.md",
-    "personal/research/research.md",
-    "calendar/daily notes/2024-01-30-Tuesday.md",
-    "calendar/_Index_of_calendar.md",
-    "calendar/daily notes/daily notes.md",
-    "calendar/2024-01-29 todo.md",
-    "work/work.md",
-    "personal/personal.md",
-    "calendar/daily notes/_Index_of_daily notes.md",
-    "calendar",
-    "calendar/daily notes",
-    "calendar",
-    "personal/research/test",
-    "settings-templates",
+    "daily notes.md",
+    "pdfs/stigmergy.pdf",
+    "pdfs/Realism-wikipedia.pdf",
+    "pdfs/mirroring-hypothesis.pdf",
+    "pdfs/Machiavellei-The-Morals-of-the-Prince.pdf",
+    "pdfs/Holocaust-timeline.pdf",
+    "pdfs/epistemic-interdependence.pdf",
+    "pdfs/core-periphery.pdf",
+    "pdfs",
+    "work.md",
+    "Calendar week template.md",
+    "Holocaust-timeline.pdf",
+    "world history/pdfs/Holocaust-timeline.pdf",
+    "world history/Holocaust-timeline.md",
+    "Punishment.md",
+    "psych/Punishment.md",
+    "Realism-wikipedia.md",
+    "Machiavellei-The-Morals-of-the-Prince.md",
+    "Project 1/Realism-wikipedia.md",
+    "Project 1/Machiavellei-The-Morals-of-the-Prince.md",
+    "comp/Project 1/Realism-wikipedia.md",
+    "comp/Project 1/Machiavellei-The-Morals-of-the-Prince.md",
+    "New Albany 2023-2024/comp/Project 1/Realism-wikipedia.md",
+    "New Albany 2023-2024/comp/Project 1/Machiavellei-The-Morals-of-the-Prince.md",
+    "New Albany 2023-2024/world history/Holocaust-timeline.md",
+    "New Albany 2023-2024/psych/Punishment.md",
+    "stigmergy.md",
+    "mirroring-hypothesis.md",
+    "epistemic-interdependence.md",
+    "core-periphery.md",
+    "orgdesign/stigmergy.md",
+    "orgdesign/mirroring-hypothesis.md",
     "Untitled.canvas"
   ]
 }
