@@ -5,5 +5,8 @@
   "obsidian-full-calendar",
   "obsidian-git",
   "obsidian-minimal-settings",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-kanban",
+  "colored-tags",
+  "highlightr-plugin"
 ]

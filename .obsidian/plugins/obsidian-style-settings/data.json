@@ -1,17 +1,9 @@
 {
-  "minimal-style@@bg2@@dark": "#000000",
-  "minimal-style@@bg3@@dark": "#000000",
-  "minimal-style@@ui1@@dark": "#5B5B5B",
-  "minimal-style@@ui2@@dark": "#707070",
   "minimal-advanced@@styled-scrollbars": true,
-  "minimal-style@@canvas-dot-pattern@@light": "#000000",
-  "minimal-style@@minimal-tab-text-color@@light": "#FFFFFF",
-  "minimal-style@@minimal-tab-text-color-active@@light": "#FFFFFF",
-  "minimal-style@@frame-background@@light": "#000000",
+  "minimal-cards-style@@cards-background@@dark": "#000000",
   "minimal-style@@base@@dark": "#000000",
   "minimal-style@@bg1@@dark": "#000000",
-  "minimal-style@@ui1@@light": "#777777",
-  "minimal-style@@ui3@@dark": "#616161",
-  "minimal-style@@frame-background@@dark": "#3E3E3E",
-  "minimal-cards-style@@cards-background@@dark": "#000000"
+  "minimal-style@@bg2@@dark": "#000000",
+  "minimal-style@@bg3@@dark": "#000000",
+  "minimal-style@@ui1@@dark": "#000000"
 }

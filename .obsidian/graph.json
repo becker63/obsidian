@@ -6,46 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"school/New Albany 2023-2024/comp\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"school/New Albany 2023-2024/psych\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"school/New Albany 2023-2024/world history\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9130720
-      }
-    },
-    {
-      "query": "path:personal/research  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.07093525179856,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.556628982528263,
-  "repelStrength": 16.6577595066804,
+  "centerStrength": 0.381266193533852,
+  "repelStrength": 9.13934887912583,
   "linkStrength": 1,
-  "linkDistance": 91,
-  "scale": 0.5661758577918368,
-  "close": true
+  "linkDistance": 160,
+  "scale": 1.0795842280266137,
+  "close": false
 }
