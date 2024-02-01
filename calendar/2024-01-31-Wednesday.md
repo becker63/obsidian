@@ -8,8 +8,6 @@ kanban-plugin: basic
 
 ## comp todo
 
-- [ ] task 2 #task-2
-- [ ] discussion post
 
 
 ## college alg todo
@@ -31,11 +29,13 @@ kanban-plugin: basic
 
 ## cybersecurity todo
 
-- [ ] Study net+
 
 
 ## done!
 
+- [ ] discussion post
+- [ ] task 2 #task-2
+- [ ] Study net+
 
 
 

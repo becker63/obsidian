@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb3297650daea344",
+        "id": "a09e761ef464a3e9",
         "type": "tabs",
         "children": [
           {
-            "id": "e6c270e31d09afaf",
+            "id": "3771389be65fab5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp week 3 task 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "task-2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp week 3 task 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp week 3 task 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Comp week 3 task 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,14 +157,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e6c270e31d09afaf",
+  "active": "3771389be65fab5c",
   "lastOpenFiles": [
+    "calendar/2024-01-31-Wednesday.md",
     "Comp week 3 task 2.md",
     "Psych  Reinforcement.md",
     "Psych partial reinforcement.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "calendar/2024-01-31-Wednesday.md",
     "Untitled.md",
     "task 2 week 3  * discussion postUntitled.md",
     "settings-templates/Daily note template.md",
